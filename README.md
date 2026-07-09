@@ -1,10 +1,10 @@
 # 🚀 DSA Mastery
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Goal-1000%2B%20Problems-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Interview-Preparation-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Goal-Placement%20Ready-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Interview%20Preparation-orange?style=for-the-badge">
 </p>
 
 ---
@@ -109,8 +109,8 @@ Future Support
 
 | Module | Progress |
 |----------|----------|
-| Time Complexity - 100% |
-| Arrays - 16% |
+| Time Complexity | 100% |
+| Arrays | 16% |
 
 
 ---
@@ -127,6 +127,11 @@ For every topic I follow this approach:
 6. Revise with notes.
 
 ---
+## 🏆 Achievements
+
+- ⭐ Solved **1400+ problems** on CodeChef
+- 💻 Consistently practicing Data Structures & Algorithms
+- 🎯 Focused on Software Engineering interview preparation
 
 # ⭐ Resources
 
