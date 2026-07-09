@@ -95,7 +95,7 @@ DSA-Mastery
 
 # 💻 Language
 
-- C ☕
+- C 
 
 Future Support
 
