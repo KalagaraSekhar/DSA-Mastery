@@ -42,7 +42,7 @@ The repository contains:
 |---------|--------|
 | ⏱ Time Complexity | ✅ Completed |
 | 📦 Arrays | ⏳ Upcoming |
-| 🔤 Strings | ⏳ Upcoming |
+| 🔤 Strings | ✅ Completed |
 | #️⃣ Hashing | ⏳ Upcoming |
 | 👉 Two Pointers & Sliding Window | ⏳ Upcoming |
 | 🔍 Searching & Sorting | ⏳ Upcoming |
@@ -110,7 +110,8 @@ Future Support
 | Module | Progress |
 |----------|----------|
 | Time Complexity | 100% |
-| Arrays | 16% |
+| Arrays | 39% |
+| Strings | 100% |
 
 
 ---
